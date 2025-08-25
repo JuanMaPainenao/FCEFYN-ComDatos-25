@@ -7,6 +7,7 @@ _Gianluca Ferraris; Ezequiel J. Marredo; Juan M. Painenao; Alejandro R. Stangafe
 **Comunicaciones de Datos**  
 **Profesores**  
 _Facundo O. Cuneo; Santiago M. Henn;_  
+
 ---
 
 ### Información de los autores
