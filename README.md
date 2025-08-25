@@ -1,2 +1,9 @@
-# FCEFYN-ComDatos-25
-Repositorio de la materia Comunicaciones de Datos 2025 de la FCEFYN
+# Comunicaciones de Datos
+**Nombres**  
+_Gianluca Ferraris; Ezequiel J. Marredo; Juan M. Painenao; Alejandro R. Stangaferro;_  
+**Xi JinPING**
+
+**Facultad de Ciencias Exactas, Físicas y Naturales**  
+**Comunicaciones de Datos**
+**Profesores**
+_Facundo O. Cuneo; Santiago M. Henn;_
