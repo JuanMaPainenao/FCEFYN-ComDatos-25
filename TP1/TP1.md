@@ -64,7 +64,7 @@ $$
 I = \frac{1}{d^2}
 $$
 
-![ImgEj1](https://hackmd.io/_uploads/H1uhcyqKge.png) 
+![ImgEj1](ImgEj1.png) 
 
 Cuando una onda se propaga en el espacio, su energía se distribuye sobre una superficie esférica que crece con la distancia. La intensidad de dicha onda disminuye con el cuadrado de la distancia.
 Además de la ley del inverso del cuadrado, también están los fenómenos de absorción del medio, dispersión y difracción y perdidas por materiales.
@@ -82,7 +82,7 @@ b) No, ya que el esquema presenta unidireccionalidad de datos, pero si se quiere
 
 c) La cuarta letra del grupo corresponde a la letra “i”. El número decimal ASCII que representa es 105, convertido a binario 0110 1001. El diagrama de señal queda de la siguiente manera:
 
-![ImgEj2](https://hackmd.io/_uploads/By0niAYKxg.png)
+![ImgEj2](ImgEj2.png)
 
 
 d) Para determinar el nivel digital de la señal en un instante sería ideal medirla en las marcas de tiempo pares (incluida la marca temporal $T_0$, $T_2$, $T_4$, sucesivamente). 
@@ -93,7 +93,7 @@ Para solucionar esto se utilizan técnicas de modulación digitales, donde la se
 
 a) La técnica utilizada en la señal mostrada es BPSK(Binary-Phase-Shift-Keying), donde se alterna entre dos fases de una tono analógico dependiendo de si se transmite un uno o un cero.
 
-b) ![ImgEj2.b](https://hackmd.io/_uploads/HJ11BQ9Fxx.jpg)
+b) ![ImgEj3](ImgEj3.jpg)
 
 
 c) Existen más técnicas de modulación digitales como ASK,FSK para transmisiones binarias. Además existen QPSK,QAM,FSCM que permiten transmitir más de 1 único bit por división.
@@ -106,7 +106,7 @@ El BER es siempre cero para transmisiones ideales, pero con la adición de las i
 
 ### Consigna 4
 
-![ImgEj4.1](https://hackmd.io/_uploads/r1nfrQcYgx.png)
+![ImgEj4.1](ImgEj4.1.png)
 
 
 c) El router opera en una frecuencia de 2.412 GHz. Dicha frecuencia corresponde a las ondas de radio dentro de la región de microondas en el espectro electromagnético. Esta frecuencia opera dentro de la banda ISM (Industrial, Scientific and Medical), la cual es una banda de frecuencias reservadas internacionalmente para el uso de energía de radiofrecuencia para fines industriales, científicos y médicos distintos de las telecomunicaciones.
@@ -180,7 +180,7 @@ Approximate round trip times in milli-seconds:
 
 Sin embargo, la computadora colocada fuera del rango wifi de nuestra red, no es capaz de detectar la red inalámbrica por lo tanto no fue posible conectarnos a la red.
 
-![ImgEj4](https://hackmd.io/_uploads/r1df20KKlx.png)
+![ImgEj4](ImgEj4.png)
 
 
 ---
