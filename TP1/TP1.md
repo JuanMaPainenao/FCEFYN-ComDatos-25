@@ -1,8 +1,3 @@
----
-title: ComDatos - TP1
-
----
-
 # Comunicaciones de Datos - Trabajo Práctico N° 1
 
 **Nombres**  
