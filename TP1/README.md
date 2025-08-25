@@ -7,7 +7,7 @@ _Gianluca Ferraris; Ezequiel J. Marredo; Juan M. Painenao; Alejandro R. Stangafe
 **Facultad de Ciencias Exactas, Físicas y Naturales**  
 **Comunicaciones de Datos**  
 **Profesores**  
-_Facundo O. Cuneo; Santiago M. Henn;_
+_Facundo O. Cuneo; Santiago M. Henn;_  
 **25-08-2025**  
 
 ---
