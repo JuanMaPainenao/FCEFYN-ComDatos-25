@@ -5,10 +5,14 @@ _Gianluca Ferraris; Ezequiel J. Marredo; Juan M. Painenao; Alejandro R. Stangafe
 **Xi JinPING**
 
 **Facultad de Ciencias Exactas, Físicas y Naturales**  
-**Comunicaciones de Datos**
-**Profesores**
-_Facundo O. Cuneo; Santiago M. Henn;_
-**08-09-2025**
+
+**Comunicaciones de Datos** 
+
+**Profesores** 
+
+_Facundo O. Cuneo; Santiago M. Henn;_ 
+
+**08-09-2025** 
 
 ---
 
