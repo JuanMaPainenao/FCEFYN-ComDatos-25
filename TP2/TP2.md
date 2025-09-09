@@ -33,7 +33,7 @@ Finalmente, se realizará una práctica con la herramienta Wireshark, útil para
 
 ## Resultados
 ### Consigna 1
-![Ej1](EJ1.png)
+![Ej1](Ej1.png)
 
 a) El fenómeno físico que se encuentra en la figura es el efecto Doppler, el cual consiste en la variación de la frecuencia aparente debido al movimiento relativo del emisor respecto del receptor.
 Se describe con la siguiente formula:
