@@ -69,44 +69,55 @@ Implementación de la topología en Cisco Packet Tracer:
 
 A) 
 Nombramiento de los switches:
+
 ![image](https://hackmd.io/_uploads/r1vMJLHgWx.png)
 
 B)
 Asignación de contraseñas privilegiadas, de consola y vty
+
 ![image](https://hackmd.io/_uploads/rypXJLHeZg.png)
 
 C)
 Encriptación de contraseñas:
+
 ![image](https://hackmd.io/_uploads/B1frJLrxZl.png)
 
 E)
 Desconexión de todas las interfaces que no están siendo utilizadas
+
 ![image](https://hackmd.io/_uploads/rk401Lre-e.png)
 
 F)
 Guardado de configuración
+
 ![image](https://hackmd.io/_uploads/HkTkx8rlZe.png)
 
 G)
 Test de comunicación utilizando ping entre las computadoras
+
 ![image](https://hackmd.io/_uploads/SyebxIBxbl.png)
 
 H)
 Creación de VLANs
+
 ![image](https://hackmd.io/_uploads/SkxMgUHlWg.png)
 
 I)
 Visualización de la VLAN utilizada por defecto
+
 ![image](https://hackmd.io/_uploads/B1gXxUHgbe.png)
 
 J, K, L)
+
 ![image](https://hackmd.io/_uploads/rkSSxIBgWe.png)
 
 N)
 Conectividad entre PC-A y PC-B
+
 ![image](https://hackmd.io/_uploads/SJrdgLSlWe.png)
 
 Conectividad entre sw-1 y sw-2
+
 ![image](https://hackmd.io/_uploads/SycOeLHx-e.png)
 
 Se configuraron ambos switches asignando hostnames, contraseñas y encriptación, se crearon las VLANs requeridas y se migró la IP de gestión desde VLAN 1 a VLAN 99. Se asignaron PC-A y PC-B a la VLAN 10 y se deshabilitaron interfaces no utilizadas como buena práctica de seguridad. Las pruebas de conectividad mostraron que los hosts en la misma VLAN pueden comunicarse correctamente entre switches.
